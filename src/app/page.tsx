@@ -1,5 +1,5 @@
 
-import Header from './components/header'
+
 import Banner from './components/banner'
 import About from './components/about'
 import Faixa from './components/faixa'
@@ -13,16 +13,12 @@ export default function Home() {
   return (
     <>
 
-      <Header/>
-      <Banner/>
+      
+      <Banner title='Bem vindo!'/>
       <About/>
       <Faixa/>
       <About2/>
       <Footer/>
-      
-
-
-
     </>
   )
 }
