@@ -7,9 +7,9 @@ return(
 <div className="flex justify-center gap-8 my-4 ">
 
     <Link href="">Produtos</Link>
-    <Link href="">Plantas</Link>
-    <Link href="">Vasos</Link>
-    <Link href="">decorações</Link>
+    <Link href="">Camisas</Link>
+    <Link href="">Chuteiras</Link>
+    <Link href="">Outros</Link>
 
 
 
