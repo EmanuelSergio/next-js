@@ -1,4 +1,4 @@
-# CRUD com Angular e DBJson
+# Aplicação WEB com react - Next.JS
  
 Primeiro projeto em que utilizo o react e o framework Next-JS, foi utilizado um banco de dados online, Supabase.
 
