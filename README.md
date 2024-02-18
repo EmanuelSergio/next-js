@@ -1,4 +1,4 @@
-# Aplicação WEB com react - Next.JS
+# Aplicação WEB com React - Next.JS
  
 Primeiro projeto em que utilizo o react e o framework Next-JS, foi utilizado um banco de dados online, Supabase.
 
